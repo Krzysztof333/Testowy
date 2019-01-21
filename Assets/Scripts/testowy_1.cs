@@ -16,5 +16,6 @@ public class testowy_1 : MonoBehaviour
         Debug.Log("Podłączyłem plik");
         Debug.Log("Podłączyłem drugi plik");
         Debug.Log("Podłączyłem trzeci plik");
+        Debug.Log("Dołączyłem czwarty plik");
     }
 }
