@@ -14,5 +14,6 @@ public class testowy_1 : MonoBehaviour
     void Update()
     {
         Debug.Log("Podłączyłem plik");
+        Debug.Log("Podłaczyłem drugi plik");
     }
 }
